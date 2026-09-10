@@ -5,9 +5,9 @@ int main() {
    printf("------------------nota-legal------------------\n");
    printf("==============================================\n");
    printf("iten                Qtd    valor     Unit \n");
-   printf("camiseta            001   %16.2f     \n",39.00);
-   printf("calca               002   %16.2f      \n",89.00);
-   printf("meia-social         003   %16.2f     \n",19.00);
+   printf("camiseta   %16s.2f            \n",39.00);
+   printf("calca      %16.2f               \n",89.00);
+   printf("meia-social %16.2f             \n",19.00);
    printf("==============================================\n");
 
    printf("----------------------------------------------\n");
