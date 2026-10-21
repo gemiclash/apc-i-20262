@@ -1,10 +1,10 @@
 all: compila roda
 
-compila: par_impar.c
-	gcc par_impar.c -o a.out -lm
+compila: menu_jogo.c
+	gcc menu_jogo.c -o a.out -lm
 
 roda: a.out
 	./a.out
 
 limpa:
-	rm a.out
+	rm a.outpraticas
