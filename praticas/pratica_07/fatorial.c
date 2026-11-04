@@ -17,7 +17,7 @@ int main()
 
     numero_original = n1;
 
-    for (fat = 1; n1 > 1; n1 = n1 - 1)
+    for (fat = 1; n1 > 1; n1 = n1 - 1 )
     {
         fat = fat * n1;
     }

@@ -1,7 +1,7 @@
 all: compila roda
 
-compila: fatorial.c
-	gcc fatorial.c -o a.out -lm
+compila:multiplos_de_n.c
+	gcc multiplos_de_n.c -o a.out -lm
 
 roda: a.out
 	./a.out
