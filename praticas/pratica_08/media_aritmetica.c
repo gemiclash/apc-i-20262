@@ -36,3 +36,4 @@ printf("a media dos numeros eh %i\n", media);
 
 
     return 0;
+}
